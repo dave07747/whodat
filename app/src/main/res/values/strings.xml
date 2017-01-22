@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Who Dat</string>
+    <string name="title_activity_main">Who Dat?</string>
+    <string name="action_settings">Settings</string>
+</resources>
